@@ -1,0 +1,15 @@
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\bin\Debug\net7.0\task2.exe
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\bin\Debug\net7.0\task2.deps.json
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\bin\Debug\net7.0\task2.dll
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\bin\Debug\net7.0\task2.pdb
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.dll
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\refint\task2.dll
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.pdb
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+D:\YandexDisk\МОИ ДОКУМЕНТЫ\Обучение Программированию 08.11.22\GeekBrains 08.11.22\GitHub\Seminars_Introduction_to_programming_languages._29_11_22\task2\obj\Debug\net7.0\ref\task2.dll
